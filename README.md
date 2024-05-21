@@ -2,7 +2,7 @@
 
 Pytorch implementation of LCT for ICME 2023 paper "[Local Consensus Transformer for Correspondence Learning](https://ieeexplore.ieee.org/abstract/document/10219942/)", by Gang Wang and Yufei Chen.
 
-The [pretrained models](https://drive.google.com/drive/folders/1wtcIFn7mFiw82naK3jfoD0IdS_bWMWOE?usp=drive_link) can be downloaded and saved in the 'model' folder, including 'yfcc-sift', 'yfcc-superpoint', 'sun3d-sift', and 'sun3d-superpoint'.
+The [pretrained models](https://drive.google.com/drive/folders/1N3YFwUt3w7ttDCxHKlzmOeWMjOQdTarG?usp=drive_link) can be downloaded and saved in the 'model' folder, including 'yfcc-sift', 'yfcc-superpoint', 'sun3d-sift', and 'sun3d-superpoint'.
 
 
 
